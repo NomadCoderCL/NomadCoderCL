@@ -50,8 +50,7 @@ Soy NomadCoderCL, un desarrollador apasionado por el backend en Python, pero tam
 
 ## 📫 Contacto
 
-- Personal: cristianrcsm94@gmail.com
-- Desarrollador independiente: dev.cristian.caysm@gmail.com
+- E-Mail: dev.cristian.caysm@gmail.com
 - GitHub: [NomadCoderCL](https://github.com/NomadCoderCL)
 - LinkedIn: [Cristian Ricardo Cayún San Martín](https://www.linkedin.com/in/cristian-ricardo-cayún-san-martin-7aa600100)
 
